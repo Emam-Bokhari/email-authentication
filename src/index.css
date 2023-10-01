@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.decoration-color {
+    text-decoration-color: blue;
+    color:blue;
+  }
